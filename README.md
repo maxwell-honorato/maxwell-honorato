@@ -4,7 +4,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?igsh=157rkqbs06l2t&utm_content=66l3o13)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwel-h-87b516294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![maxwel GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwell-honorato&show_icons=true&theme=radical)
+![maxwel GitHub stats](https://github-readme-stats.vercel.app/api?username=maxwell-honorato&show_icons=true&theme=radical&locale=pt-br)
 
 ### Tecnologias que eu uso no meu dia a dia 
 
